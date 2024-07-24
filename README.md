@@ -102,7 +102,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * [DONE][Step 2: Review the scalability article](#step-2-review-the-scalability-article)
     * [DONE][Next steps](#next-steps)
 * [slideshow-85][Performance vs scalability](#performance-vs-scalability)
-* [Latency vs throughput](#latency-vs-throughput)
+* [DONE][Latency vs throughput](#latency-vs-throughput)
 * [Availability vs consistency](#availability-vs-consistency)
     * [CAP theorem](#cap-theorem)
         * [CP - consistency and partition tolerance](#cp---consistency-and-partition-tolerance)
